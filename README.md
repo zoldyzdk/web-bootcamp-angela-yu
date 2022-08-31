@@ -8,9 +8,9 @@
 ### TECNOLOGIAS
 *Front-End Web Development*
 
-* HTML 5 - `In progress`
+* ~~HTML 5~~ 
 
-* CSS 3
+* CSS 3 - `In progress`
 
 * Bootstrap 4
 
