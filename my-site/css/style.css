@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: aquamarine;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    width: 20;
+    margin: 150px auto 0 auto;
+    /* font-family: Verdana; */
+    font-family: 'Dancing Script', cursive;
+    font-size: 64px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 650px;
+    top: 80px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
