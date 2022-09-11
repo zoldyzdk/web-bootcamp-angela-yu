@@ -17,6 +17,14 @@ span {
     text-decoration: underline;
 }
 
+.arredondamento {
+    border-radius: 100%;
+}
+
+.img-perfil {
+    border-radius: 90%;
+}
+
 .top-cloud {
     position: absolute;
     right: 650px;
@@ -25,4 +33,12 @@ span {
 
 .bottom-cloud {
     position: absolute;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
 }
