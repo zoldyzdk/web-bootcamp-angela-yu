@@ -1,24 +1,33 @@
 body {
     margin: 0;
     text-align: center;
-    background-color: aquamarine;
+    /* background-color: rgba(71, 244, 227, 0.659); */
     font-family: 'Merriweather', serif;
 }
 
 h1 {
+    margin: 50px auto 0 auto;
     width: 20;
     margin: 150px auto 0 auto;
     /* font-family: Verdana; */
     font-family: 'Dancing Script', cursive;
-    font-size: 64px;
+    font-size: 5.625rem;
+    color: #66bfbf;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
 }
 
 span {
     text-decoration: underline;
 }
 
-.arredondamento {
-    border-radius: 100%;
+h3, a {
+    color: #11999e;
+    
 }
 
 .img-perfil {
@@ -27,7 +36,7 @@ span {
 
 .top-cloud {
     position: absolute;
-    right: 650px;
+    right: 30%;
     top: 80px;
 }
 
@@ -41,4 +50,29 @@ span {
 
 .bottom-container {
 
+}
+
+.profile {
+    margin-top: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computador {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.ampulheta {
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
