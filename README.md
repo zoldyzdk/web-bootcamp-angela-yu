@@ -10,11 +10,11 @@
 
 * ~~HTML 5~~ 
 
-* CSS 3 - `In progress`
+* ~~CSS 3~~ 
 
-* Bootstrap 4
+* ~~Bootstrap 4~~ -> Tailwind
 
-* Javascript ES6
+* **Javascript ES6** - `In progress`
 
 * DOM Manipulation
 
